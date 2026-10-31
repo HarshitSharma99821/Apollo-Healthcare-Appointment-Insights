@@ -1,0 +1,3 @@
+IMPORTANT: The two original CSV datasets were not available as separate files in this chat, so they are not included in this ZIP.
+Copy your existing `apollo_appointments_fact.csv` and `apollo_doctors_dim.csv` into this folder before running the notebook.
+Also replace [Friend's Name] and add the friend's LinkedIn URL in README.md.
