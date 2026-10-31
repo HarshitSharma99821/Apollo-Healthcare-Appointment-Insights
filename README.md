@@ -113,9 +113,9 @@ The analysis can help identify areas for further investigation and support data-
 
 ## Author
 
-**[Friend's Name]**  
+**Harshit Sharma**  
 Aspiring Data Analyst
 
 **Skills:** Add only the tools and skills you can confidently explain.
 
-**LinkedIn:** Add your LinkedIn profile URL.
+**LinkedIn:** https://www.linkedin.com/in/harshit-sharma-data-analyst/
